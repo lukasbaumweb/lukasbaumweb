@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lukasbaumweb
 - 👀 I’m interested in everything which contains 0 and 1.
 - 🌱 I’m currently learning react, node and firebase.
+- And Supabase, Next and MS Dynamics
 
 <!---
 lukasbaumweb/lukasbaumweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
