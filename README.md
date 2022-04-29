@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lukasbaumweb
+- 👋 Hi, I’m Lukas
 - 👀 I’m interested in everything which contains 0 and 1.
 - 🌱 I’m currently learning react, node, firebase, Supabase, Nextfor fun
 -  and for business Microsoft Dynamics 365
