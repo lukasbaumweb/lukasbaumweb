@@ -6,7 +6,7 @@ Software Engineer
 
 I've been learning to code since 2016 and since 2019 (starting with 3 years as a apprentice) i've been writing Software professionally at large company by learning Customizing Microsoft SharePoint (on-premise). After half a year i switched to developing Software to extend Microsoft Dynamics 365 (on-premise and online) until now
 
-* 🌍  I'm based in Sottrum
+* 🌍  I'm based in Sottrum (Germany)
 * 🖥️  See my portfolio at [My missing portfolio page](http://baum-lukas.de)
 * ✉️  You can contact me at [lukasbaumweb@gmail.com](mailto:lukasbaumweb@gmail.com)
 * 🧠  I'm learning Angular
