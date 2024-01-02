@@ -8,7 +8,7 @@ I've been learning to code since 2016 and since 2019 (starting with 3 years as a
 
 * 🌍  I'm based in Sottrum
 * 🖥️  See my portfolio at [My missing portfolio page](http://baum-lukas.de)
-* ✉️  You can contact me at [lukasbaum7778@gmail.com](mailto:lukasbaum7778@gmail.com)
+* ✉️  You can contact me at [lukasbaumweb@gmail.com](mailto:lukasbaumweb@gmail.com)
 * 🧠  I'm learning Angular
 
 ### Skills
